@@ -1,6 +1,7 @@
 # Number_Plate_Detection_System
 
 This include code for number plate detection system.
+It will detect number plate from an image and store the number in the form of text as well as cropped image.
 We have used various techniques and libraries of Machine Learning to complete the task.
 
 To achieve this , we have to do two major tasks:
